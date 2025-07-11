@@ -9,4 +9,4 @@ The dataset used in this project is [Marketing Insights for E-Commerce](https://
 There's no missing values nor duplicates data. Whereas, SQL used for data validation such as formatting, merged information from one to another database.
 
 ### Here's to find out
-![Dashboard](https://public.tableau.com/views/202506-dashboard-ecommercecustomerinsights/Dashboard1-SUM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/202506-dashboard-ecommercecustomerinsights/Dashboard1-SUM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
